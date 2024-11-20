@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/bin/Debug/net8.0/otomobılvemotor
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/bin/Debug/net8.0/otomobılvemotor.deps.json
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/bin/Debug/net8.0/otomobılvemotor.runtimeconfig.json
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/bin/Debug/net8.0/otomobılvemotor.dll
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/bin/Debug/net8.0/otomobılvemotor.pdb
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/obj/Debug/net8.0/otomobılvemotor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/obj/Debug/net8.0/otomobılvemotor.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/obj/Debug/net8.0/otomobılvemotor.AssemblyInfo.cs
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/obj/Debug/net8.0/otomobılvemotor.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/obj/Debug/net8.0/otomobılvemotor.dll
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/obj/Debug/net8.0/refint/otomobılvemotor.dll
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/obj/Debug/net8.0/otomobılvemotor.pdb
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/obj/Debug/net8.0/otomobılvemotor.genruntimeconfig.cache
+/Users/svage/RiderProjects/otomobılvemotor/otomobılvemotor/obj/Debug/net8.0/ref/otomobılvemotor.dll

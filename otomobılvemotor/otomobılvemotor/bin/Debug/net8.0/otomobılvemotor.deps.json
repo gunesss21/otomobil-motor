@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "otomobılvemotor/1.0.0": {
+        "runtime": {
+          "otomobılvemotor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "otomobılvemotor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
